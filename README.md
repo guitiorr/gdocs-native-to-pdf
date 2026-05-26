@@ -115,7 +115,3 @@ Run it once, then run `rebuildPdfIfChanged`.
 ## File
 
 - `Code.gs` — the entire script. Two functions: `rebuildPdfIfChanged` (the worker, called by the trigger) and `installTrigger` (one-time setup).
-
-## License
-
-MIT — do whatever you want with it.
